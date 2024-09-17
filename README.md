@@ -1,5 +1,5 @@
 # Web-Scrapping-and-Data-handling-on-JustWatch
-🎬 JustWatch Web Scraping Project
+🎬 JustWatch Web Scraping and Data Handling Project
 
 Welcome to the JustWatch Web Scraping project repository! This project explains of data scrapping from JustWatch, a popular streaming guide that helps users find where to watch movies and TV shows across various platforms.
 
