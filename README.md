@@ -37,11 +37,8 @@ re: Regular expressions to extract specific patterns from the website
 Steps involved in this project:
 
 1.Installed the necessary libraries(requests, pandas, Beautiful Soup).
-
 2.Running the scrapper code.
-
 3. Data filtering and analysis.
-
 4.Exporting the extracted data into a csv file.
 
 🔄 How It Works
