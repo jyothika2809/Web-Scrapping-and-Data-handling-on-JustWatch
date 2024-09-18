@@ -28,7 +28,9 @@ Data export: Exports the scraped data into CSV format for further analysis.
 🛠️ Technology Stack
 
 Programming Language: Python
+
 Libraries:
+
 BeautifulSoup: For parsing HTML and extracting data
 requests: To make HTTP requests and fetch webpage content
 pandas: For cleaning and storing scraped data in a tabular format
@@ -44,12 +46,15 @@ Steps involved in this project:
 🔄 How It Works
 
 Requesting the JustWatch page: The scraper makes HTTP requests to JustWatch for movie or TV show lists based on user-defined filters.
+
 Parsing HTML content: Using BeautifulSoup, the script extracts relevant information such as titles, genres, ratings and streaming options.
+
 Data storage: The extracted data is cleaned and saved as a CSV file using Pandas for easy analysis.
 
 📊 Data Analysis
 
 After scraping, you can analyze the data to:
+
 Compare prices for streaming services.
 Identify which platforms offer specific movies/TV shows.
 Analyze trends in streaming availability by genre or country.
